@@ -3,7 +3,7 @@
 The goal of this project was to extract the centerline of coronary vessels in CTAngiography images. The input of the software is 3d images in .raw format and the result is going to be saved
 in output.raw file. We need another software like paraview or VolView to visualize the results. 
 This software implemented in C++ (windows) using two libraries of ITK3.2 and VTK 5.8. 
-I could propose a new method for detection of coronary Ostia (the location in the aorta in that coronary vessels branches starts). The centerline extraction method was implemented based on [this] (https://www.ncbi.nlm.nih.gov/pubmed/21637981) paper's method.
+I could propose a new method for detection of coronary Ostia (the location in the aorta in that coronary vessels branches starts). The centerline extraction method was implemented based on [this](https://www.ncbi.nlm.nih.gov/pubmed/21637981) paper's method.
 
 ## Description
 This software has three features:
@@ -13,8 +13,8 @@ This software has three features:
 
 ## Binding to Other libraries
 We used 
-- [ITK3.2] (https://itk.org/)
-- [VTK 5.8] (https://www.vtk.org/)
+- [ITK3.2](https://itk.org/)
+- [VTK 5.8](https://www.vtk.org/)
 
 
 
