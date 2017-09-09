@@ -1,0 +1,13 @@
+ObjectType = Image
+NDims = 3
+BinaryData = True
+BinaryDataByteOrderMSB = False
+CompressedData = False
+TransformMatrix = 1 0 0 0 1 0 0 0 1
+Offset = 4.91738e-007 4.91738e-007 2.65161e-314
+CenterOfRotation = 0 0 0
+AnatomicalOrientation = RAI
+ElementSpacing = 0.726562 0.726562 0.8
+DimSize = 256 256 136
+ElementType = MET_FLOAT
+ElementDataFile = FastMarchingFilterOutput3.raw

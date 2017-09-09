@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{d85a60b3-4ecd-4698-bbcf-c585516d433f}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="AortaDetection.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ConnectedComponent.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ConvertingGrayScaleToBinary.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CoronaryTracking.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Evaluation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FastMarching.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FastMarchingLevelSetBase.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ImageReadImageSeriesWrite.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="imageSeriesWriter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="itkMultiScaleHessianBasedMeasureImageFilterTest.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RayCAsting.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RegionGrowing.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Resampler.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Resampletobeisotropic.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\VTKVessel910815\VTKVess\vessel.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="VTKRayCaster.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="AortaDetection.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ConnectedComponent.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ConvertingGrayScaleToBinary.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CoronaryTracking.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Evaluation.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="FastMarching.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="FastMarchingLevelSetBase.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ImageReadImageSeriesWrite.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="imageSeriesWriter.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="itkGrayscaleMorphologicalClosingImageFilter.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="itkHessianToObjectnessMeasureImageFilter.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="itkMultiScaleHessianBasedMeasureImageFilter.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RayCAsting.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RegionGrowing.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Resampler.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Resampletobeisotropic.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="VTKRayCaster.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="F:\VTKVessel910815\VTKVess\CMakeLists.txt" />
+  </ItemGroup>
+</Project>
